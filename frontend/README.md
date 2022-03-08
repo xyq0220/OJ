@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# OJ
-graduate design
-=======
 # OnlineJudge Front End
 [![vue](https://img.shields.io/badge/vue-2.5.13-blue.svg?style=flat-square)](https://github.com/vuejs/vue)
 [![vuex](https://img.shields.io/badge/vuex-3.0.1-blue.svg?style=flat-square)](https://vuex.vuejs.org/)
@@ -66,4 +62,3 @@ Modern browsers and Internet Explorer 10+.
 ## LICENSE
 
 [MIT](http://opensource.org/licenses/MIT)
->>>>>>> frontend
